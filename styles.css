@@ -23,9 +23,14 @@ body {
 }
 
 /* BODY */
-
+.instructions {
+    color: white;
+    margin: .2em 0 -.5em 0;
+    font-family: kiona-regular;
+    src: url('./assets/Kiona-Regular.ttf');
+}
 .main {
-    height: 80vh;
+    height: 177vh;
     width: auto;
     display: flex;
     justify-content: center;
